@@ -6,7 +6,5 @@ public class Student {
 
 
 
-    public String getStudent() {
-        return student;
-    }
+
 }
